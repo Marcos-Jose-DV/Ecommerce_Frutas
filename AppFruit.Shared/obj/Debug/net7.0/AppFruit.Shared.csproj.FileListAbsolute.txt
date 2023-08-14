@@ -1,0 +1,12 @@
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\bin\Debug\net7.0\AppFruit.Shared.deps.json
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\bin\Debug\net7.0\AppFruit.Shared.dll
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\bin\Debug\net7.0\AppFruit.Shared.pdb
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\AppFruit.Shared.csproj.AssemblyReference.cache
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\AppFruit.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\AppFruit.Shared.AssemblyInfoInputs.cache
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\AppFruit.Shared.AssemblyInfo.cs
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\AppFruit.Shared.csproj.CoreCompileInputs.cache
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\AppFruit.Shared.dll
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\refint\AppFruit.Shared.dll
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\AppFruit.Shared.pdb
+D:\GitHub Maui\AppShopFruit\AppFruit.Shared\obj\Debug\net7.0\ref\AppFruit.Shared.dll
