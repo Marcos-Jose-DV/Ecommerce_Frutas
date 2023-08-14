@@ -1,0 +1,4 @@
+$ cat .gitattributes
+
+*.LLVM linguist-language=C#
+*.Java linguist-language=C#
