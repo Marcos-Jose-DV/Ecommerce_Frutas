@@ -1,4 +1,4 @@
 $ cat .gitattributes
 
-*.llvm linguist-language=C#
-*.java linguist-language=C#
+* linguist-vendored
+*.llvm linguist-vendored=false
