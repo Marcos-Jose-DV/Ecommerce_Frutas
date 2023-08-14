@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uXCJBaDZqvS/UJ33S1CbasmWd8tdEtLH0d+N0JtoabeoTTSH2slB3ovhAssEm88Y+w+JLAoWBwrDWTiUnjwOcQ==",
+  "dgSpecHash": "FF8457e+jjqRIid9D7yHQOmgu2//7B/Thfg1n4O317iSXBJl7eZcmyU2b1a/eR4kvw8JnjxF6epgpdyZ7eTslw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
+  "projectFilePath": "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\communitytoolkit.maui\\5.2.0\\communitytoolkit.maui.5.2.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\communitytoolkit.maui.core\\5.2.0\\communitytoolkit.maui.core.5.2.0.nupkg.sha512",

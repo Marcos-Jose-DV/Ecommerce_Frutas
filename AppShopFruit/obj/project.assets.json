@@ -1996,8 +1996,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -4002,8 +4001,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -6008,8 +6006,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -8014,8 +8011,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -10020,8 +10016,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -12026,8 +12021,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -14032,8 +14026,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -16038,8 +16031,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -16303,8 +16295,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -16568,8 +16559,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -16833,8 +16823,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -17098,8 +17087,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -17363,8 +17351,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -17628,8 +17615,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -17893,8 +17879,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -18158,8 +18143,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -18423,8 +18407,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -18688,8 +18671,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -18953,8 +18935,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -19218,8 +19199,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -19483,8 +19463,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -19748,8 +19727,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -20013,8 +19991,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -20278,8 +20255,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -20707,8 +20683,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -21102,8 +21077,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -21497,8 +21471,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -21892,8 +21865,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -22287,8 +22259,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -22682,8 +22653,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -23077,8 +23047,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -23478,8 +23447,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.1",
-          "Microsoft.Extensions.Http": "7.0.0"
+          "CommunityToolkit.Mvvm": "8.2.1"
         },
         "compile": {
           "bin/placeholder/AppFruit.Shared.dll": {}
@@ -26940,11 +26908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
+      "projectUniqueName": "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
       "projectName": "AppShopFruit",
-      "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
+      "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\obj\\",
+      "outputPath": "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -26970,32 +26938,32 @@
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
           "projectReferences": {
-            "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
-              "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
+            "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+              "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
             }
           }
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "projectReferences": {
-            "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
-              "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
+            "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+              "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
             }
           }
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "projectReferences": {
-            "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
-              "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
+            "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+              "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
             }
           }
         },
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
           "projectReferences": {
-            "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
-              "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
+            "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+              "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
             }
           }
         }

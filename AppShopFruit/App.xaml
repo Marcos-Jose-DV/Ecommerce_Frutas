@@ -6,7 +6,24 @@
              xmlns:converters="clr-namespace:AppShopFruit.Converter">
     <Application.Resources>
         <ResourceDictionary>
+            <Style TargetType="Button" x:Key="CartBtn">
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="Margin" Value="0"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="HeightRequest" Value="30"/>
+                <Setter Property="WidthRequest" Value="35"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+            </Style>
 
+            <Style TargetType="Button" x:Key="AddToCartBtn">
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="Margin" Value="0"/>
+                <Setter Property="HeightRequest" Value="30"/>
+                <Setter Property="WidthRequest" Value="60"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+            </Style>
             <converters:StringToColorConverter x:Key="StringToColor"/>
 
             <Style TargetType="Label" x:Key="H1">

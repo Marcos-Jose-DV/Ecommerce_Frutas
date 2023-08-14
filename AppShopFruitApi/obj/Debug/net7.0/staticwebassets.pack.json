@@ -1,79 +1,79 @@
 {
   "Files": [
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_category.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_category.png",
       "PackagePath": "staticwebassets\\icon_category.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_help.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_help.png",
       "PackagePath": "staticwebassets\\icon_help.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_home.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_home.png",
       "PackagePath": "staticwebassets\\icon_home.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_order.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_order.png",
       "PackagePath": "staticwebassets\\icon_order.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_profile.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_profile.png",
       "PackagePath": "staticwebassets\\icon_profile.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\butter_cheese.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\butter_cheese.png",
       "PackagePath": "staticwebassets\\images\\categories\\butter_cheese.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\dairy.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\dairy.png",
       "PackagePath": "staticwebassets\\images\\categories\\dairy.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\eggs.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\eggs.png",
       "PackagePath": "staticwebassets\\images\\categories\\eggs.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\eggs_meat.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\eggs_meat.png",
       "PackagePath": "staticwebassets\\images\\categories\\eggs_meat.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\exotic_fruits.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\exotic_fruits.png",
       "PackagePath": "staticwebassets\\images\\categories\\exotic_fruits.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\fruits.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\fruits.png",
       "PackagePath": "staticwebassets\\images\\categories\\fruits.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\green_vegetables.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\green_vegetables.png",
       "PackagePath": "staticwebassets\\images\\categories\\green_vegetables.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\leafy_vegetables.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\leafy_vegetables.png",
       "PackagePath": "staticwebassets\\images\\categories\\leafy_vegetables.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\meat.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\meat.png",
       "PackagePath": "staticwebassets\\images\\categories\\meat.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\milk_curd_yogurt.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\milk_curd_yogurt.png",
       "PackagePath": "staticwebassets\\images\\categories\\milk_curd_yogurt.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\salads.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\salads.png",
       "PackagePath": "staticwebassets\\images\\categories\\salads.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\seafood.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\seafood.png",
       "PackagePath": "staticwebassets\\images\\categories\\seafood.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\seasonal_fruits.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\seasonal_fruits.png",
       "PackagePath": "staticwebassets\\images\\categories\\seasonal_fruits.png"
     },
     {
-      "Id": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\vegetables.png",
+      "Id": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\vegetables.png",
       "PackagePath": "staticwebassets\\images\\categories\\vegetables.png"
     },
     {

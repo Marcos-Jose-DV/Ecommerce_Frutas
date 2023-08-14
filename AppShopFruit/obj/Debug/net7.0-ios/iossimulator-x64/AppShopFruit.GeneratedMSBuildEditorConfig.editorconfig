@@ -8,75 +8,75 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppShopFruit
-build_property.ProjectDir = D:\GitHub Maui\AppShopFruit\AppShopFruit\
+build_property.ProjectDir = D:\GItHubC#\AppShopFruit\AppShopFruit\
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/App.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/AppShell.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Controls/Spacer.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Controls/Spacer.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Controls.Spacer.xaml
 build_metadata.AdditionalFiles.TargetPath = Controls\Spacer.xaml
 build_metadata.AdditionalFiles.RelativePath = Controls\Spacer.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/MainPage.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Resources/Styles/Colors.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Resources/Styles/Styles.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Views/BasketPage.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Views/BasketPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Views.BasketPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\BasketPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\BasketPage.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Views/CategoriesPage.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Views/CategoriesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Views.CategoriesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\CategoriesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\CategoriesPage.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Views/HelpPage.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Views/HelpPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Views.HelpPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\HelpPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\HelpPage.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Views/HomePage.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Views/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Views.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Views/OrdersPage.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Views/OrdersPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Views.OrdersPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\OrdersPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\OrdersPage.xaml
 
-[D:/GitHub Maui/AppShopFruit/AppShopFruit/Views/ProfilePage.xaml]
+[D:/GItHubC\#/AppShopFruit/AppShopFruit/Views/ProfilePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppShopFruit.Views.ProfilePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\ProfilePage.xaml

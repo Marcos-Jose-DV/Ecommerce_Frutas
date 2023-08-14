@@ -36,8 +36,7 @@ var mastersGroup = app.MapGroup("/masters").AllowAnonymous(); ;
 mastersGroup.MapGet("/categories", async (DataContext context) =>
     TypedResults.Ok(await context.Categories
     .AsNoTracking()
-    .ToArrayAsync()
-    )
+    .ToArrayAsync())
 );
 mastersGroup.MapGet("/offers", async (DataContext context) =>
     TypedResults.Ok(await context.Offers

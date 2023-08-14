@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3K87vWWagyNxVqWr/aHyDSWmRK6cYqSwB2BH8niJw1o=",
+  "Hash": "hEZ/8gDxQ2u/+g4ppMF9yOmVRBuNJ9MWfxjQbpOxEhY=",
   "Source": "AppShopFruitApi",
   "BasePath": "_content/AppShopFruitApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AppShopFruitApi\\wwwroot",
       "Source": "AppShopFruitApi",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_category.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_category.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "icon_category.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\icon_category.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_help.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_help.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "icon_help.png",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\icon_help.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_home.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_home.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "icon_home.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\icon_home.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_order.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_order.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "icon_order.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\icon_order.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_profile.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\icon_profile.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "icon_profile.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\icon_profile.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\butter_cheese.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\butter_cheese.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/butter_cheese.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\butter_cheese.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\dairy.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\dairy.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/dairy.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\dairy.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\eggs.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\eggs.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/eggs.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\eggs.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\eggs_meat.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\eggs_meat.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/eggs_meat.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\eggs_meat.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\exotic_fruits.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\exotic_fruits.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/exotic_fruits.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\exotic_fruits.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\fruits.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\fruits.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/fruits.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\fruits.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\green_vegetables.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\green_vegetables.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/green_vegetables.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\green_vegetables.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\leafy_vegetables.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\leafy_vegetables.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/leafy_vegetables.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\leafy_vegetables.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\meat.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\meat.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/meat.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\meat.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\milk_curd_yogurt.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\milk_curd_yogurt.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/milk_curd_yogurt.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\milk_curd_yogurt.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\salads.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\salads.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/salads.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\salads.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\seafood.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\seafood.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/seafood.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\seafood.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\seasonal_fruits.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\seasonal_fruits.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/seasonal_fruits.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\seasonal_fruits.png"
     },
     {
-      "Identity": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\vegetables.png",
+      "Identity": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\images\\categories\\vegetables.png",
       "SourceId": "AppShopFruitApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
+      "ContentRoot": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\wwwroot\\",
       "BasePath": "_content/AppShopFruitApi",
       "RelativePath": "images/categories/vegetables.png",
       "AssetKind": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PkLRbIJG4gpRoYZyvmoR72y5oV/GHGaL3oERsXsXwtSZzI+yUzlq4k1Hi+sIMiVJGHVmvKRzIxrO7Qc2MztRCQ==",
+  "dgSpecHash": "Wc2/YOzIjiTVheKFSFxyEwAMaJswl8b+FHHVmOqfOUxsYY+SrB0N/t/LrT99Zwt+986Bt/P/B7mpCD+HZl222Q==",
   "success": true,
-  "projectFilePath": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruitApi\\AppShopFruitApi.csproj",
+  "projectFilePath": "D:\\GItHubC#\\AppShopFruit\\AppShopFruitApi\\AppShopFruitApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -27,7 +27,6 @@
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",

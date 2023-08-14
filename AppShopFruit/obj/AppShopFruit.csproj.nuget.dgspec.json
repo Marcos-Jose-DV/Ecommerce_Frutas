@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj": {}
+    "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj": {}
   },
   "projects": {
-    "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+    "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj",
+        "projectUniqueName": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj",
         "projectName": "AppFruit.Shared",
-        "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj",
+        "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\obj\\",
+        "outputPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,10 +48,6 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.2.1, )"
-            },
-            "Microsoft.Extensions.Http": {
-              "target": "Package",
-              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -74,14 +70,14 @@
         }
       }
     },
-    "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj": {
+    "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
+        "projectUniqueName": "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
         "projectName": "AppShopFruit",
-        "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
+        "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\AppShopFruit.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub Maui\\AppShopFruit\\AppShopFruit\\obj\\",
+        "outputPath": "D:\\GItHubC#\\AppShopFruit\\AppShopFruit\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -107,32 +103,32 @@
           "net7.0-android33.0": {
             "targetAlias": "net7.0-android",
             "projectReferences": {
-              "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
-                "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
+              "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+                "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
               }
             }
           },
           "net7.0-ios16.1": {
             "targetAlias": "net7.0-ios",
             "projectReferences": {
-              "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
-                "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
+              "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+                "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
               }
             }
           },
           "net7.0-maccatalyst16.1": {
             "targetAlias": "net7.0-maccatalyst",
             "projectReferences": {
-              "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
-                "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
+              "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+                "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
               }
             }
           },
           "net7.0-windows10.0.19041": {
             "targetAlias": "net7.0-windows10.0.19041.0",
             "projectReferences": {
-              "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
-                "projectPath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
+              "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj": {
+                "projectPath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj"
               }
             }
           }

@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b1ld7Z8SfDPomI509VPYAVLW7Ixggk+6zAlFsSx4DCP2sLRNG/epdokdIfy8tybbwatU1VQ06lwBZH9tscfWHw==",
+  "dgSpecHash": "BlsYE4f+mxPZ8oDgu1ijtU/QR/go1bZPpuwxF29O3Fyy2U1APGicPV4WzKcX8msDzPkqEbfT9aq85soCe0iQYg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub Maui\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj",
+  "projectFilePath": "D:\\GItHubC#\\AppShopFruit\\AppFruit.Shared\\AppFruit.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marco\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "C:\\Users\\marco\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512"
   ],
   "logs": []
 }

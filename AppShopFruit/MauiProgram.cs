@@ -48,9 +48,10 @@ public static class MauiProgram
         });
 
         builder.Services.AddSingleton<CategoryService>();
+        builder.Services.AddSingleton<ProductsService>();
+        builder.Services.AddSingleton<OffersServices>();
         builder.Services.AddSingleton<HomeViewModel>();
         builder.Services.AddSingleton<HomePage>();
-        builder.Services.AddSingleton<OffersServices>();
 
 
 #if DEBUG

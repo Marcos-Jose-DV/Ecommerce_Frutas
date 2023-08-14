@@ -4,28 +4,15 @@ using System.Text.Json;
 
 namespace AppShopFruit.Services;
 
-public class OffersServices
+public class OffersServices : BaseApiService
 {
-    private readonly IHttpClientFactory _httpClientFactory;
-    public OffersServices(IHttpClientFactory httpClientBuilder)
-     => _httpClientFactory = httpClientBuilder;
-
+    public OffersServices(IHttpClientFactory httpClientBuilder) 
+        : base(httpClientBuilder) { }
+    
     public async Task<IEnumerable<Offer>> GetOffersAsync()
     {
-        var httpClient = _httpClientFactory.CreateClient(AppConstants.HttpClientName);
-        var response = await httpClient.GetAsync("/masters/offers");
-        if (response.IsSuccessStatusCode)
-        {
-            var content = await response.Content.ReadAsStringAsync();
-            if (!string.IsNullOrEmpty(content))
-                return JsonSerializer.Deserialize<IEnumerable<Offer>>(content, new JsonSerializerOptions
-                {
-                    PropertyNameCaseInsensitive = true
-                });
-        }
-
-        return Enumerable.Empty<Offer>();
-
+        var response = await HttpClient.GetAsync("/masters/offers");
+        return await HandlerApiResponseAsync(response, Enumerable.Empty<Offer>());
     }
 }
 

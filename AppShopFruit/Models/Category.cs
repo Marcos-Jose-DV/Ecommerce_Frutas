@@ -25,7 +25,7 @@ public class Category
         get => _image;
         set
         {
-            _image = $"https://github.com/Marcos-Jose-DV/Curso-Net-Maui/blob/main/AppShopFruit/AppShopFruitApi/wwwroot/images/categories/{value}";
+            _image = $"https://raw.githubusercontent.com/Marcos-Jose-DV/Ecommerce_Frutas/main/AppShopFruitApi/wwwroot/images/categories/{value}";
         }
     }
 
