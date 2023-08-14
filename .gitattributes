@@ -3,6 +3,6 @@ $ cat .gitattributes
 * linguist-vendored
 *.llvm linguist-vendored=false
 *.java linguist-vendored=false
-*.c# linguist-vendored=true
+*.c# linguist-detectable=true
 
 
