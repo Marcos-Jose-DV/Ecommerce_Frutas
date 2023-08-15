@@ -2,7 +2,6 @@ $ cat .gitattributes
 *.LLVM linguist-language=csharp
 *.java linguist-language=csharp
 
-
-AppShopFruit/* linguist-vendored
-net7.0-android/AppShopFruit/* linguist-vendored
+Debug/* linguist-vendored
+net7.0-android/Debug/* linguist-vendored
 
