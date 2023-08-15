@@ -1,7 +1,7 @@
 $ cat .gitattributes
 
 *.csharp linguist-detectable=true
-*.llvm linguist-detectable=false
+*.LLVM linguist-detectable=false
 
 
 
