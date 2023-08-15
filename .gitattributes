@@ -1,10 +1,5 @@
 $ cat .gitattributes
-
-*.csharp linguist-detectable=true
-
-* linguist-vendored
-*.LLVM linguist-vendored=false
-
-
+*.llvm linguist-language=csharp
+*.java linguist-language=csharp
 
 
