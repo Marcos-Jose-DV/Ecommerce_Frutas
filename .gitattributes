@@ -1,9 +1,6 @@
 $ cat .gitattributes
 *.llvm linguist-language=csharp
 
-* linguist-vendored
-*.llvm linguist-vendored=false
-*.csharp linguist-vendored=false
 
 
 
