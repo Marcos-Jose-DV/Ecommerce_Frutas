@@ -3,3 +3,14 @@ $ cat .gitattributes
 *.java linguist-language=csharp
 
 
+static/* linguist-vendored
+AppShopFruit/obj/Debug/net7.0-android/android/jni_remap.x86_64.ll/static/* linguist-vendored
+AppShopFruit/obj/Debug/net7.0-android/android/jni_remap.x86_64.ll/templates/* linguist-vendored
+
+static/* linguist-vendored
+AppShopFruit/obj/Debug/net7.0-android/android/environment.x86_64.ll/static/* linguist-vendored
+AppShopFruit/obj/Debug/net7.0-android/android/environment.x86_64.ll/templates/* linguist-vendored
+
+static/* linguist-vendored
+AppShopFruit/obj/Debug/net7.0-android/android/compressed_assemblies.x86_64.ll/static/* linguist-vendored
+AppShopFruit/obj/Debug/net7.0-android/android/compressed_assemblies.x86_64.ll/templates/* linguist-vendored
