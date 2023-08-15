@@ -1,6 +1,5 @@
 $ cat .gitattributes
-*.java linguist-language=csharp
-*.llvm linguist-language=java
+*.llvm linguist-language=csharp
 
 
 
