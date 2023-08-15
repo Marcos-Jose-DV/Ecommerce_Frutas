@@ -1,5 +1,7 @@
 $ cat .gitattributes
 *.java linguist-language=csharp
+*.c++ linguist-language=csharp
+
 
 
 
