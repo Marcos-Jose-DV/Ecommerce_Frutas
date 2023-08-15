@@ -2,6 +2,7 @@
 
 * linguagem=csharp
 
+*.csharp linguist-detectable=true
 
 
 
