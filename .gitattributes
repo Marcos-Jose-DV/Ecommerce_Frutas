@@ -1,5 +1,5 @@
 $ cat .gitattributes
-*.LLVM linguist-language=csharp
+*.llvm linguist-language=csharp
 *.java linguist-language=csharp
 
 Debug/* linguist-vendored
