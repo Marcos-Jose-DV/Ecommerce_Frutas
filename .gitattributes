@@ -3,6 +3,6 @@ $ cat .gitattributes
 *.java linguist-language=csharp
 
 
-static/* linguist-vendored
-AppShopFruit/obj/Debug/net7.0-android/static/* linguist-vendored
+AppShopFruit/* linguist-vendored
+net7.0-android/AppShopFruit/* linguist-vendored
 
