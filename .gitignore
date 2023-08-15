@@ -1,2 +1,1 @@
-git add .gitignore
-git commit -m "Adicionar regra para ignorar diretório AppShopFruit/obj/Debug/net7.0-android/android/"
+AppShopFruit/obj/Debug/net7.0-android/android/oid/"
